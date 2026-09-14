@@ -1,16 +1,61 @@
-## Hi there 👋
+┌─────────────────────────────────────────────┐
+│              👋 HI, I'M MINAZ              │
+│                                             │
+│  Building • Learning • Experimenting       │
+└─────────────────────────────────────────────┘
 
-<!--
-**minaz44/minaz44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧠 ABOUT ME
 
-Here are some ideas to get you started:
+💻 Full-Stack Development
+🤖 AI / Machine Learning
+⚡ Hackathons & Product Building
+🔬 Exploring intelligent applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🛠️ TECH STACK
+
+Languages
+Python • C++ • JavaScript • HTML • CSS
+
+AI / ML
+Machine Learning • NLP • Sentiment Analysis
+
+Development
+React • Node.js • APIs • Git • GitHub
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🚀 FEATURED PROJECTS
+
+💰 SpendWise
+AI-powered fintech / expense-management project
+
+📊 Sentiment Analysis
+Social-media sentiment classification using ML
+
+🌐 Personal Portfolio
+My developer portfolio and web projects
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📊 GITHUB MISSION CONTROL
+
+GitHub Stats
+Contribution Streak
+Top Languages
+
+🐍 Contribution Snake
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🎯 CURRENTLY LEARNING
+
+AI • Machine Learning • Full Stack
+System Design • APIs • Cloud
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🤝 LET'S CONNECT
+
+LinkedIn • Portfolio • Email • GitHub
